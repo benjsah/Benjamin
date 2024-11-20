@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BenjaminDataScience
+- 👋 Hi, I’m Benjamin
 - 👀 I’m interested in Sports, Mathematics, Philosophy and Traveling
-- 🌱 I’m currently learning Pyton and Data Science
+- 🌱 I’m currently learning Phyton and Data Science
 - 🫱🏽‍🫲🏾 I’m looking to collaborate on Sports Analysis Projects and Mentorship
 - 📫 How to reach me: 
 - 😄 Pronouns: he/him
