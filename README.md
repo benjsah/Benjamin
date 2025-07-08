@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Benjamin
 - 👀 I’m interested in Sports, Mathematics, Philosophy and Traveling
-- 🌱 I’m currently learning Phyton and Data Science
-- 🫱🏽‍🫲🏾 I’m looking to collaborate on Sports Analysis Projects and Mentorship
-- 📫 How to reach me: 
+- 🌱 I’m currently stepping up in Phyton and Data Science
+- 🫱🏽‍🫲🏾 I’m looking to collaborate on Sports Analysis Projects
+- 📫 How to reach me: benjamin.sahel@pm.me
 - 😄 Pronouns: he/him
 
 <!---
